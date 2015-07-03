@@ -1,0 +1,103 @@
+body {
+	font-family: Helvetica, Georgia, serif;
+	color: black;
+	background-image: url(http://i.imgur.com/4llgkZb.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;	
+}
+.social-buttons {
+	margin-left: 37em;
+}
+.social-buttons li {
+	display: inline;
+	margin-left: 2em;
+
+}
+.social-buttons img {
+	height: 2em;
+}
+.header {
+	margin-bottom: 6em;
+	display: inline;
+
+	
+}
+.header h1 {
+	text-align: left;
+	padding-left: 0.8em;
+	width: 7em;
+	border: 1.6px solid black;
+	border-radius: 1em;
+	font-size: 1.2em;
+}
+
+.header ul li {
+	display: inline;
+	margin-top: 0;
+
+}
+.content {
+	text-align: center;
+	margin-top: 7em;
+	
+}
+.circular {
+	width: 150px;
+	height: 150px;
+	border-radius: 75px;
+	-webkit-border-radius: 75px;
+	-moz-border-radius: 75px;
+	background: url(http://i.imgur.com/AKqPMgmt.jpg?1);
+	box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	-webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	-moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	display: center;
+	margin: 0 auto 2em auto;
+	}
+.content h1 {
+	text-align: center;
+	font-size: 2em;
+
+}
+
+.content ul {
+	padding-bottom: 5em;
+}
+
+.content ul li {
+	display: inline;
+	margin: 1em;
+	width: 100%;
+}
+.quote {
+	
+	text-align: center;
+	padding: 2em;
+	margin-bottom: 3em;
+
+}
+.quote h1 {
+	font-size: 0.8em;
+
+}
+.quote h2 {
+	font-size: 0.5em;
+	font-style: 
+}
+.skills {
+	text-align: center;
+	margin-bottom: 5em;
+
+}
+.skills h1{
+	font-style: 1em;
+	font-size: 1em;
+
+}
+.skills p {
+	font-size: 0.8em;
+	margin-left: 10em;
+	margin-right: 10em;
+
+}
